@@ -1,4 +1,4 @@
-name: Production Build
+name: Production Build Process
 on:
   pull_request:
   push:
